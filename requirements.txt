@@ -1,6 +1,8 @@
+vecs
 llama-index
-pymysql
 llama-index-llms-gemini
 google-generativeai
 supabase
-psycopg2
+llama-index-vector-stores-supabase
+llama-index-embeddings-gemini
+llama-index-embeddings-huggingface
