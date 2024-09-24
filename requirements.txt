@@ -6,3 +6,4 @@ supabase
 llama-index-vector-stores-supabase
 llama-index-embeddings-gemini
 llama-index-embeddings-huggingface
+psycopg2
